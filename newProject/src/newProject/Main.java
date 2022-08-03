@@ -13,11 +13,7 @@ public class Main {
 		System.out.println("Thank you");	
 		System.out.println("It pushed!");
 		System.out.println("Jaimin Rana");
-		System.out.println("Hellooooooooooooo");
-		System.out.println("My Company name is AGS Health");
-		System.out.println("Hellooooooooooooo");
-		System.out.println("My Company name is AGS Healthfghgh");
-		System.out.println("My Name is Mohammad Faizan");
+		
 
 	}
 }
